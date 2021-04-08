@@ -1,0 +1,19 @@
+{
+  "name": "algorithms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "AddTwoNumbers.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.18.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
